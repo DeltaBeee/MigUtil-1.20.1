@@ -1,1 +1,1 @@
-Hive Server mod.
+Mod created by and for the Hive Server.
